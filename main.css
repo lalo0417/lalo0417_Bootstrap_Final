@@ -1,0 +1,138 @@
+.intro-header {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/home.jpg) no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.intro-message {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    font-size: 5em;
+}
+
+.intro-message h1 {
+    font-family: 'Playfair Display SC', 'Lora', 'Calisto MT', serif;
+}
+
+.btn-primary {
+    background-color: #e6e6e6;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #c9c9c9;
+}
+
+.network-btn {
+    color: black;
+    text-shadow: none;
+    font-family: 'Karla', "Geneva" sans-serif;
+}
+
+.network-btn:hover {
+    color: black;
+    text-shadow: none;
+}
+
+.contact-header {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/contact.jpeg) no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+.project-header {
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/projects.jpg) no-repeat center top;
+    background-size: cover;
+    height: 300px;
+}
+
+.text1-home {
+    background-color: rgba(255, 190, 66, 0.33);
+    text-align: justify;
+}
+
+.text2-home {
+    padding-top: 25px;
+    text-align: justify;
+    background: url(../img/lighthouse.png) no-repeat center center;
+    background-size: cover;
+}
+
+.text-hr {
+    border: 3px solid #be9c5e;
+    width: 30%;
+}
+
+.text-right {
+    width: 65%;
+    float: right;
+    text-align: justify;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Karla', "Geneva" sans-serif;
+}
+
+.contact-form {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+.card {
+    height: 500px;
+}
+
+.contact-btn {
+    background-color: #be9c5e;
+    font-family: 'Karla', "Geneva" sans-serif;
+}
+
+.contact-btn:hover {
+    background-color: #9f7b3c;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+p {
+    font-family: 'Ubuntu', 'Open Sans Condensed', 'Verdana' sans-serif;
+}
+
+.maxWidth {
+    width: 100%;
+    max-width: 1370px;
+    margin: 60px auto;
+    padding: 0 20px;
+}
+
+.bigS {
+    float: right;
+    width: 40%;
+}
